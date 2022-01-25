@@ -13,7 +13,7 @@
 <img align="left" height="35" src="https://www.pngkey.com/png/full/178-1787134_png-file-svg-github-icon-png.png">
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
 <img align="left" height="35" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
-<img align="left" height="35" src="https://img.icons8.com/officel/16/000000/php-logo.png">
+<img align="left" height="35" src="https://img.icons8.com/officel/480/000000/php-logo.png">
 </p>
 </br>
 
