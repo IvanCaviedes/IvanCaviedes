@@ -1,9 +1,6 @@
-# Hi, I'm Alberto 
-### I am a passionate Software Developer who enjoys spending countless hours coding.
-- 💡  I have an entrepreneurial spirit and love learning new technologies. 
-- 👨🏻‍💻 I’m currently mastering React Native, you can see some of my projects [here](https://betomoedano.netlify.app/)
-- ♟ Fun fact: I like to play chess even though I'm not so good. 🤯
-
+# Hi, I'm Ivan 
+### I am a developer who has fun creating new software and generating new solutions.
+- 👨‍💻  I love learning the new technologies that move the web. 
 ### Languages and Tools:
 
 <p>
@@ -24,9 +21,8 @@
 
 ### Connect with me
 
-[<img align="left" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="35" height="35"/>](https://www.youtube.com/channel/UCzkDuc3rSDyEZYo3NoHzalw)
-[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30"/>](https://www.instagram.com/betomoedano/)
-[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/betomoedano/)
+[<img align="left" src="https://img.icons8.com/fluency/48/000000/facebook.png" width="35" height="35"/>](https://www.youtube.com/channel/UCzkDuc3rSDyEZYo3NoHzalw)
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/ivan-caviedes/)
 <!--
 **betomoedano/betomoedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
