@@ -14,7 +14,7 @@
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
 <img align="left" height="35" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
 <img align="left" height="35" src="https://img.icons8.com/officel/480/000000/php-logo.png">
-<img align="left" height="35" src="https://img.icons8.com/wired/512/000000/java-coffee-cup-logo.png">
+<img align="left" height="35" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png">
 </p>
 </br>
 
