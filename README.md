@@ -23,9 +23,28 @@
 
 [<img align="left" src="https://img.icons8.com/fluency/48/000000/facebook.png" width="35" height="35"/>](https://www.youtube.com/channel/UCzkDuc3rSDyEZYo3NoHzalw)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/ivan-caviedes/)
-<!--
-**betomoedano/betomoedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
+```text
+⌚︎ Time Zone: Bogotá/Colombia
+
+💬 Programming Languages: 
+JavaScript               18 hrs 4 mins       ██████████████████░░░░░░░   74.37% 
+Python                   10 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   8.72% 
+Java                     5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   3.39%
+PHP                      3 HRS               █░░░░░░░░░░░░░░░░░░░░░░░░   3.59% 
+Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
+
+🔥 Editors: 
+vsCode                   22 hrs 44 mins      ███████████████████████░░   93.53% 
+Android Studio           1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
+
+💻 Operating System: 
+Windows                  24 hrs 18 mins      █████████████████████████   100.0%
+
+```
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
