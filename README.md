@@ -126,7 +126,7 @@
 ###
 
 ### ✍️ Random Dev Quote
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itsky152&icon=0&color=0)](https://visitcount.itsvg.in)
