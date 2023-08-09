@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is ivan and I'm a developer from Colombia</h2>
+<h2 align="center">Hi 👋! My name is Ivan Caviedes and I'm a developer from Colombia</h2>
+
+###
+
+<div align="center">
+<p>Hello again! 👋 I'm Ivan, an tireless creator who weaves ideas into code, crafting digital solutions with passion and precision. Ready to challenge the boundaries of technology and breathe life into your boldest projects. Let's make lines of code shine with creativity! 💡🚀</p>
+</div>
 
 ###
 
@@ -113,7 +119,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ivancaviedes/ivancaviedes/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -125,8 +133,11 @@
 
 ###
 
-### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itsky152&icon=0&color=0)](https://visitcount.itsvg.in)
